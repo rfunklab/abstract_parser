@@ -1,0 +1,8 @@
+pandas==2.2.3
+sentence-transformers==4.1.0
+spacy==3.8.7
+matplotlib
+numpy==1.26.4
+bs4
+pypandoc
+pyarrow
